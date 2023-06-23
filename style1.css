@@ -1,0 +1,15 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+html,body{
+    margin:none;
+    padding:none;
+}
+img{
+    background-image: cover;
+    width:940px;
+    height:700px;
+    background-attachment: fixed;
+}

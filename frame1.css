@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+iframe{
+    margin:none;
+    padding:none;
+    background-attachment: fixed;
+}
+html,body{
+    margin:0;
+    padding:0;
+    border:0;
+    
+}
